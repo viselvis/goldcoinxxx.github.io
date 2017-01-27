@@ -1,0 +1,17 @@
+body {
+	background-image: url("gif.gif");
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: verdana;
+	font-style: italic;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-family: verdana;
+	font-style: italic;
+}
